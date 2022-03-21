@@ -34,6 +34,6 @@
   
 </div><br/>
 
-Entusiasta de tecnologia, educação e por melhorar a nossa vida através da programação.
+Entusiasta de tecnologia e programação.
 
 
