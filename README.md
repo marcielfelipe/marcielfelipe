@@ -5,7 +5,7 @@
 
 
 <div>
-<a href="https://github.com/wlborges">
+<a href="https://github.com/marcielfelipe">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcielfelipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=marcielfelipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width:100%;">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcielfelipe&amp;layout=compact&amp;langs_count=16&amp;theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcielfelipe&amp;layout=compact&amp;langs_count=16&amp;theme=dracula" style="max-width:100%;">
@@ -16,7 +16,6 @@
 [![Blog](https://img.shields.io/website?label=MfDev.com&style=for-the-badge&url=https://mfdev.com.br/)](https://mfdev.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcielfelipe)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=marcielfelipe&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias de cada dia
 
