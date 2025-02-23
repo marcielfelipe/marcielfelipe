@@ -30,6 +30,5 @@
   
 </div><br/>
 
-Entusiasta de tecnologia e programação.
 
 
