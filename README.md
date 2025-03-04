@@ -1,7 +1,6 @@
 ## Hi! I am Marciel Felipe 🖐️
 
 [![Blog](https://img.shields.io/website?label=marcielfelipe.com&style=for-the-badge&url=https://marcielfelipe.com/)](https://marcielfelipe.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcielfelipe)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marcielfelipe)](https://github.com/marcielfelipe)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcielfelipe)](https://www.linkedin.com/in/marcielfelipe/)
